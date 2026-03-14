@@ -35,7 +35,7 @@ Supports both **Android and iOS platforms**.
 
 ### 🎥 Demo Video
 
-[▶ Watch Demo](https://drive.google.com/file/d/15Dex9nyqreSUgfUSt0RuhEn0qQqKDP1C/view?usp=sharing)
+[▶ Watch Demo](https://drive.google.com/file/d/1lITSwPWILgUGmmhnI5RDHLFjkl9WeoF2/view?usp=sharing)
 
 ---
 
@@ -136,6 +136,21 @@ flutter pub get
 flutter run
 ```
 
+---
+
+# 📦 Build APK
+
+To generate a release APK, run the following command:
+
+```
+flutter build apk
+```
+
+After the build is complete, the APK file will be generated at:
+
+```
+build/app/outputs/flutter-apk/app-release.apk
+```
 ---
 
 # 📦 APK Download
